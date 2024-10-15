@@ -4,7 +4,7 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 <img src="DL1.png" width = "500" height = "340">
 
-          Sample images from MNIST test dataset
+Sample images from MNIST test dataset
 
  Here, the MNIST database is used for training and testing our Convolutional Neural Network. A convolutional neural network (CNN) is a specialized form of feed-forward neural network that autonomously identifies features through the optimization of filters (or kernels). This deep learning architecture has been utilized to analyze and predict outcomes from various data types, such as text, images, and audio. Its application in geoscience, especially in seismic interpretation is rapidly expanding, reflecting its growing significance in these fields.
 
