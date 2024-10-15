@@ -12,14 +12,14 @@ A convolutional neural network is made up of an input layer, multiple hidden lay
 
 <img src="DL2.jpg" width = "500" height = "340">
 
-              Typical CNN architecture
+Typical CNN architecture
               
 
 Now before we start, it is important to note that every data in MNIST images point has two parts: an image (x) and a corresponding label (y) describing the actual image and each image is a 28x28 array, i.e., 784 numbers. The label of the image is a number between 0 and 9 corresponding to the TensorFlow MNIST image.
 
 <img src="DL3.png" width = "500" height = "340">
 
-          Sample MNIST dataset in TensorFlow
+Sample MNIST dataset in TensorFlow
           
 
 
@@ -203,7 +203,7 @@ plt.show()
 
 <img src="DL4.png" width = "500" height = "340">
 
-          Train and test losses after 10 epochs
+Train and test losses after 10 epochs
        
 
 ## Prediction
@@ -218,7 +218,7 @@ plt.show()
 
 <img src="DL5.png" width = "500" height = "340">
 
-      A new image has been loaded for testing the model
+ A new image has been loaded for testing the model
 
 
 
